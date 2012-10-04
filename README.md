@@ -2,4 +2,6 @@ Inspired by the pure CSS Mona Lisa at http://codepen.io/jaysalvat/pen/HaqBf, I d
 
 Dependencies: PIL, Not having a life.
 
-Run with: python pictocss <picture filename>
+Run with: python pictocss &lt;picture filename&gt;
+
+I created a Birth Of Venus at http://codepen.io/donaq/pen/spefA
